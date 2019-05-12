@@ -299,7 +299,7 @@ MonoBehaviour:
   startingPlayerHealth: 3
   currentPlayerHealth: 0
   sword: {fileID: 2502634652461644053, guid: b6d3a403ce94be34db7a9682ddf2cba6, type: 3}
-  thrustPower: 250
+  thrustPower: 200
   canMove: 0
   canAttack: 0
 --- !u!95 &1020848448
